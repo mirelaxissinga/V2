@@ -23,7 +23,7 @@ Gosto de aprender na prática, transformar ideias em projetos e experimentar nov
 
     highlights: [
       { label: "Localização", value: "Moçambique" },
-      { label: "Universidade", value: "UNISAVE" },
+      { label: "Universidade", value: "SAVE" },
       { label: "Área", value: "Engenharia Informática" },
       { label: "Foco", value: "Desenvolvimento & Tecnologia" },
     ],
