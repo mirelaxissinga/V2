@@ -56,7 +56,7 @@ Gosto de aprender na prática, transformar ideias em projetos e experimentar nov
         "Sistema desenvolvido para facilitar a procura e gestão de hospedagem para estudantes, permitindo organizar informações sobre quartos e alojamentos.",
       tags: ["PHP", "HTML", "CSS", "MySQL"],
       liveLink: "#",
-      codeLink: "https://github.com/mih-cmd",
+      codeLink: "https://github.com/mirelaxissinga",
     },
 
     {
@@ -65,7 +65,7 @@ Gosto de aprender na prática, transformar ideias em projetos e experimentar nov
         "Projeto académico desenvolvido para aplicar conceitos de Programação Orientada a Objetos, organização de classes, objetos e gestão de dados.",
       tags: ["Java", "POO"],
       liveLink: "#",
-      codeLink: "https://github.com/mih-cmd",
+      codeLink: "https://github.com/mirelaxissinga",
     },
 
     {
@@ -74,7 +74,7 @@ Gosto de aprender na prática, transformar ideias em projetos e experimentar nov
         "Conjunto de projetos académicos desenvolvidos para explorar programação funcional, funções, tipos e diferentes conceitos da linguagem Haskell.",
       tags: ["Haskell", "Programação Funcional"],
       liveLink: "#",
-      codeLink: "https://github.com/mih-cmd",
+      codeLink: "https://github.com/mirelaxissinga",
     },
 
     {
@@ -83,7 +83,7 @@ Gosto de aprender na prática, transformar ideias em projetos e experimentar nov
         "Projeto experimental desenvolvido em Java, explorando conceitos de programação e construção de sistemas através de uma abordagem prática.",
       tags: ["Java", "Programação"],
       liveLink: "#",
-      codeLink: "https://github.com/mih-cmd",
+      codeLink: "https://github.com/mirelaxissinga",
     },
 
     {
@@ -92,7 +92,7 @@ Gosto de aprender na prática, transformar ideias em projetos e experimentar nov
         "Projeto experimental que explora a criação de um sistema computacional interativo utilizando hardware reaproveitado, Linux e conceitos de interfaces holográficas.",
       tags: ["Linux", "Hardware", "Interface"],
       liveLink: "#",
-      codeLink: "https://github.com/mih-cmd",
+      codeLink: "https://github.com/mirelaxissinga",
     },
 
     {
@@ -101,7 +101,7 @@ Gosto de aprender na prática, transformar ideias em projetos e experimentar nov
         "Conceito experimental de uma solução fintech baseada em inteligência artificial, com foco na criação de ferramentas digitais acessíveis.",
       tags: ["Python", "IA", "Fintech"],
       liveLink: "#",
-      codeLink: "https://github.com/mih-cmd",
+      codeLink: "https://github.com/mirelaxissinga",
     },
 
     {
@@ -110,7 +110,7 @@ Gosto de aprender na prática, transformar ideias em projetos e experimentar nov
         "Portfólio pessoal desenvolvido para apresentar os meus projetos, competências, formação académica e evolução na área de Engenharia Informática.",
       tags: ["HTML", "CSS", "JavaScript"],
       liveLink: "https://mirelaxissinga.github.io/portfolio/#projetos",
-      codeLink: "https://github.com/mih-cmd",
+      codeLink: "https://github.com/mirelaxissinga",
     },
 
   ],
@@ -139,7 +139,7 @@ Gosto de aprender na prática, transformar ideias em projetos e experimentar nov
     socialLinks: [
       {
         platform: "GitHub",
-        url: "https://github.com/mih-cmd",
+        url: "https://github.com/mirelaxissinga",
         icon: "github",
       },
     ],
