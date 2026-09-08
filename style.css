@@ -266,6 +266,7 @@ button {
 .nav-link {
    text-decoration: none;
    color: inherit;
+}
 .navbar.scrolled {
   background: rgba(250, 250, 250, 0.85);
   backdrop-filter: blur(20px);
