@@ -1317,6 +1317,19 @@ button {
     height: 60px;
   }
 
+   .navbar {
+  padding: 0 8px;
+}
+
+.nav-links {
+  gap: 0;
+}
+
+.nav-link {
+  padding: 6px 4px;
+  font-size: 0.7rem;
+}
+
   .hero {
     padding: 100px 20px 60px;
     min-height: 90vh;
